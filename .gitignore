@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+/secrets/
+
+.env
