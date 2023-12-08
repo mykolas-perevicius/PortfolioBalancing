@@ -19,4 +19,7 @@ venv/
 # Secrets
 /secrets/
 
+
+# Environment variables
+.flaskenv
 .env
